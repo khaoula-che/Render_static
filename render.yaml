@@ -2,7 +2,7 @@ services:
   - name: Render_static
     type: web
     env:
-      - key: 
+      - key: PORT
         value: "8080"
     buildCommand: npm install && npm run build
     startCommand: npm start
