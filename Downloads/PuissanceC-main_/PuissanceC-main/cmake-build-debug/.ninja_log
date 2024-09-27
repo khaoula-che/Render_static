@@ -1,0 +1,22 @@
+# ninja log v6
+9	296	7490954391605984	CMakeFiles/HelloWorld.dir/main.c.obj	9874431adc5bd4c0
+331	717	7490954394815708	HelloWorld.exe	c0516b3b43a19884
+18	326	7490713487246910	CMakeFiles/HelloWorld.dir/ficf2.c.obj	5e217d175e59c80
+21	121	7490774896061383	CMakeFiles/HelloWorld.dir/test.c.obj	b7602f4fbf4eb8ae
+35	335	7490781214407639	CMakeFiles/HelloWorld.dir/player.c.obj	1d0b61a0a04c0f60
+47	242	7490781214517631	CMakeFiles/HelloWorld.dir/Board.c.obj	bbae4cd6c4021943
+17	330	7490954391691107	CMakeFiles/HelloWorld.dir/board.c.obj	436d59cd0cb1237e
+29	494	7490999661075637	CMakeFiles/HelloWorld.dir/player.c.obj	1d0b61a0a04c0f60
+39	510	7490999661159332	CMakeFiles/HelloWorld.dir/board.c.obj	436d59cd0cb1237e
+4	162	7490999811750261	CMakeFiles/HelloWorld.dir/main.c.obj	9874431adc5bd4c0
+6	133	7491000336604415	CMakeFiles/HelloWorld.dir/colors.c.obj	4aff432b924dfb03
+134	404	7491000337873880	HelloWorld.exe	ec94330e3a51b7fc
+15	310	7491001284674186	CMakeFiles/HelloWorld.dir/colors.c.obj	4aff432b924dfb03
+6	335	7491001284568899	CMakeFiles/HelloWorld.dir/main.c.obj	9874431adc5bd4c0
+335	966	7491001287862507	HelloWorld.exe	ec94330e3a51b7fc
+6	135	7491001922195379	CMakeFiles/HelloWorld.dir/colors.c.obj	4aff432b924dfb03
+136	416	7491001923496650	HelloWorld.exe	ec94330e3a51b7fc
+5	140	7491003370037544	CMakeFiles/HelloWorld.dir/main.c.obj	9874431adc5bd4c0
+141	404	7491003371389728	HelloWorld.exe	ec94330e3a51b7fc
+8	231	7491007377459621	CMakeFiles/HelloWorld.dir/board.c.obj	436d59cd0cb1237e
+232	506	7491007379680967	HelloWorld.exe	ec94330e3a51b7fc
